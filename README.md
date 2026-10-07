@@ -504,7 +504,7 @@
         <!-- TENTANG -->
         <section id="about">
 
-            <h2 class="section-title">Tentang Saya</h2>
+            <h2 class="section-title">ABOUT ME</h2>
 
             <div class="about-box">
 
